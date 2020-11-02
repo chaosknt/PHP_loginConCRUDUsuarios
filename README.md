@@ -8,5 +8,5 @@
 <ul>
   <li>Plantilla AdminLTE</li>
   <li>Html -CSS - JavaScript - Jquery</li>
-  <li>PHP - MySQL/li>  
+  <li>PHP - MySQL </li>  
 </ul>
