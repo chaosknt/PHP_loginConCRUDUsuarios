@@ -1,9 +1,7 @@
-# loginConCRUDUsuarios
+# Login de usuarios con roles y permisos
 
 
-<h1>Login de usuarios con roles y permisos</h1>
-
-<p>Ejemplo de Login con tabla CRUD de usuario, con roles y permisos realizada con el patron MVC</p>
+<p>Ejemplo de Login con tabla CRUD de usuario realizada con el patron MVC</p>
 
 
 <h3>Stack utilizado</h3>
